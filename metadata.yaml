@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5845
     wikipedia: http://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
 description: 'Translation of: Az arany ember'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31409#Timar-s-Two-Worlds
 gutenberg_issued: '2010-02-26'
 gutenberg_type: Text
 identifiers:
